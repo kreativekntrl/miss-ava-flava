@@ -9,7 +9,6 @@ function App() {
 <div className="page-wrap">
   <header className="page-header">
     <Nav />
-    Header
   </header>
   <main className="page-main">
     <Main />
