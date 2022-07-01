@@ -1,4 +1,5 @@
 import {SocialMediaIconsReact} from 'social-media-icons-react';
+
 const Footer = () => {
     return(
         <div>   
