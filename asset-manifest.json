@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/miss-ava-flava/static/css/main.d23f3b66.css",
-    "main.js": "/miss-ava-flava/static/js/main.f27dc35f.js",
+    "main.css": "/miss-ava-flava/static/css/main.b6b46838.css",
+    "main.js": "/miss-ava-flava/static/js/main.8677deed.js",
     "static/js/787.c612aa27.chunk.js": "/miss-ava-flava/static/js/787.c612aa27.chunk.js",
     "index.html": "/miss-ava-flava/index.html",
-    "main.d23f3b66.css.map": "/miss-ava-flava/static/css/main.d23f3b66.css.map",
-    "main.f27dc35f.js.map": "/miss-ava-flava/static/js/main.f27dc35f.js.map",
+    "main.b6b46838.css.map": "/miss-ava-flava/static/css/main.b6b46838.css.map",
+    "main.8677deed.js.map": "/miss-ava-flava/static/js/main.8677deed.js.map",
     "787.c612aa27.chunk.js.map": "/miss-ava-flava/static/js/787.c612aa27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d23f3b66.css",
-    "static/js/main.f27dc35f.js"
+    "static/css/main.b6b46838.css",
+    "static/js/main.8677deed.js"
   ]
 }
