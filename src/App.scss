@@ -43,7 +43,9 @@ body {
 .page-sidebar {
   grid-column: 1 / 2;
   grid-row: 2 / 4;
-  background: #e1bee7;
+}
+.card {
+  margin-bottom: 10px;
 }
 //MAIN
 .page-main {
@@ -55,5 +57,12 @@ body {
 //FOOTER
 .page-footer {
   grid-column: 1 / -1;
-  background: #ffecb3;
+  background: #ededed;
+}
+svg {
+  margin: 5px;
+}
+.page-footer p {
+  font-size: 12px;
+  margin-bottom: 0;
 }

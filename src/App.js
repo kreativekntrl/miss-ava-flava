@@ -15,11 +15,9 @@ function App() {
   </main>
   <aside className="page-sidebar">
     <Aside />
-    Aside
   </aside>
   <footer className="page-footer">
     <Footer />
-    Footer
   </footer>
 </div>
   );
