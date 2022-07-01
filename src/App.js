@@ -12,7 +12,6 @@ function App() {
   </header>
   <main className="page-main">
     <Main />
-    Main
   </main>
   <aside className="page-sidebar">
     <Aside />
