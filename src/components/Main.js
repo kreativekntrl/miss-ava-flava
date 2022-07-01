@@ -7,7 +7,8 @@ import img5 from '../images/img5.jpg';
 
 const Main = () => {
     return(
-<div>   
+<div> 
+  <h2>Artisan Made Meal Prep</h2>
 <Carousel>
         <Carousel.Item>
           <img
