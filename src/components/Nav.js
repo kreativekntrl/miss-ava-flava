@@ -3,6 +3,7 @@ const Nav = () => {
     return(
         <div>  
             <i> <img 
+            className="logo"
             style={{width: "70px", height: "70px"}}
             src={logo}
             alt="logo"></img></i> 
